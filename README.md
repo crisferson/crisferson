@@ -1,3 +1,4 @@
+@@ -1,3 +1,107 @@
 # Olá, eu sou Crisferson Fragoso
 
 ```ruby 
@@ -8,9 +9,12 @@ class Programmer
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/crisferson-fragoso-87745610b" target="_blank"><img align="center" src="https://github.com/" alt="marcodotcastro" height="30" width="40" /></a>
-    <a href="https://desen" target="_blank"><img align="center" src="https://github.com/" alt="desenvolvendome" height="30" width="40" target="_blank"/></a>
-        
+    <a href="https://www.linkedin.com/in/crisferson-fragoso-87745610b" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>
+    <a href="https://desenvolvendo.me" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/chrome.png?raw=true" alt="desenvolvendome" height="30" width="40" target="_blank"/></a>
+    <a href="https://www.youtube.com/c/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/youtube-v2.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a>
+    <a href="https://t.me/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/telegram.png?raw=true" alt="marcodotcastro" height="30" width="40"/></a>
+    <a href="https://instagram.com/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a>
+    <a href="https://fb.com/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/facebook.png?raw=true" alt="desenvolvendome" height="30" width="40" /></a>    
 </p>
 
 ---
@@ -34,7 +38,7 @@ class Programmer
     <tbody>
 	<tr>
 		<td>1</td>
-            	<td><a href="https://github.com/"><b>Sales Factory</b></a></td>
+            	<td><a href="https://github.com/marcodotcastro/sale-factory"><b>Sales Factory</b></a></td>
 		<td>Business / Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
